@@ -1,0 +1,270 @@
+<resources>
+    <string name="app_name">PhoneCheck Pro</string>
+    <string name="app_subtitle">مجموعة التشخيص المتقدمة للهاتف</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_device">الجهاز</string>
+    <string name="nav_tests">الاختبارات</string>
+    <string name="nav_health">الصحة</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Dashboard -->
+    <string name="health_score">درجة الصحة</string>
+    <string name="device_healthy">الجهاز سليم تماماً</string>
+    <string name="issues_detected">تم رصد مشاكل</string>
+    <string name="attention_required">مطلوب الانتباه</string>
+    <string name="scan_my_phone">فحص هاتفي الآن</string>
+    <string name="scanning_device">جاري فحص الجهاز…</string>
+    <string name="quick_metrics">المؤشرات الرئيسية</string>
+    <string name="uptime">مدة التشغيل</string>
+    <string name="storage">التخزين</string>
+    <string name="memory_ram">الذاكرة (RAM)</string>
+    <string name="battery">البطارية</string>
+    <string name="cpu">المعالج</string>
+    <string name="gpu">معالج الرسوميات</string>
+    <string name="display">الشاشة</string>
+    <string name="temperature">الحرارة</string>
+
+    <!-- Device Info -->
+    <string name="device_information">معلومات الجهاز</string>
+    <string name="device_identity">هوية الجهاز</string>
+    <string name="manufacturing_region">التصنيع والمنطقة</string>
+    <string name="hardware_specifications">مواصفات العتاد</string>
+    <string name="system_os">نظام التشغيل</string>
+    <string name="display_specs">مواصفات الشاشة</string>
+    <string name="camera_specs">عتاد الكاميرا</string>
+    <string name="brand">العلامة التجارية</string>
+    <string name="manufacturer">الشركة المصنعة</string>
+    <string name="exact_model">الموديل الدقيق</string>
+    <string name="model_number">رقم الموديل</string>
+    <string name="device_name">اسم الجهاز</string>
+    <string name="product_name">اسم المنتج</string>
+    <string name="device_family">عائلة الجهاز</string>
+    <string name="device_id">معرف الجهاز</string>
+    <string name="android_version">إصدار أندرويد</string>
+    <string name="android_sdk">مستوى SDK</string>
+    <string name="build_number">رقم البناء</string>
+    <string name="kernel_version">إصدار النواة</string>
+    <string name="security_patch">مستوى تصحيح الأمان</string>
+    <string name="bootloader">حالة البوتلودر</string>
+    <string name="cpu_architecture">المعمارية</string>
+    <string name="cpu_cores">عدد الأنوية</string>
+    <string name="cpu_frequency">تردد المعالج</string>
+    <string name="total_ram">إجمالي الذاكرة</string>
+    <string name="available_ram">الذاكرة المتاحة</string>
+    <string name="used_ram">الذاكرة المستخدمة</string>
+    <string name="total_storage">إجمالي التخزين</string>
+    <string name="available_storage">المساحة الفارغة</string>
+    <string name="used_storage">المساحة المستخدمة</string>
+    <string name="screen_resolution">الدقة</string>
+    <string name="screen_density">كثافة الشاشة</string>
+    <string name="refresh_rate">معدل التحديث</string>
+    <string name="screen_size">حجم الشاشة</string>
+    <string name="front_camera">الكاميرا الأمامية</string>
+    <string name="rear_camera">الكاميرا الخلفية</string>
+    <string name="bluetooth">بلوتوث</string>
+    <string name="wifi">واي فاي</string>
+    <string name="nfc">الاتصال قريب المدى (NFC)</string>
+    <string name="usb">منفذ USB</string>
+    <string name="gps">نظام تحديد المواقع GPS</string>
+    <string name="fingerprint_sensor">مستشعر البصمة</string>
+    <string name="face_authentication">التعرف على الوجه</string>
+    <string name="not_available">Not available on this device</string>
+    <string name="unknown">Unknown</string>
+    <string name="brand_origin">بلد منشأ العلامة</string>
+    <string name="assembly_country">بلد التجميع</string>
+    <string name="release_year">سنة الإصدار</string>
+    <string name="manufacturing_region_name">منطقة التصنيع</string>
+    <string name="device_market">سوق التوزيع</string>
+    <string name="model_region_code">رمز منطقة الموديل</string>
+
+    <!-- Battery -->
+    <string name="battery_health">صحة البطارية</string>
+    <string name="battery_level">مستوى الشحن</string>
+    <string name="battery_temperature">درجة الحرارة</string>
+    <string name="battery_voltage">الجهد الكهربائي</string>
+    <string name="battery_current">تيار الشحن</string>
+    <string name="charging_status">حالة الشحن</string>
+    <string name="power_source">مصدر الطاقة</string>
+    <string name="battery_capacity">السعة</string>
+    <string name="design_capacity">السعة التصميمية</string>
+    <string name="remaining_capacity">السعة التقديرية المتبقية</string>
+    <string name="battery_technology">التقنية</string>
+    <string name="cycle_count">عدد دورات الشحن</string>
+    <string name="battery_status">حالة البطارية العامة</string>
+    <string name="battery_excellent">ممتازة (Excellent)</string>
+    <string name="battery_good">جيدة (Good)</string>
+    <string name="battery_degraded">تم اكتشاف تراجع في صحة البطارية</string>
+    <string name="battery_info_note">ملاحظة: مستوى البطارية هو النسبة الحالية للطاقة، بينما صحة البطارية تعكس الحالة الكيميائية طويلة الأمد. تقيد أنظمة أندرويد الوصول لعدد الدورات الدقيق بدون صلاحيات الشركة المصنعة.</string>
+
+    <!-- Uptime -->
+    <string name="device_uptime">مدة تشغيل الجهاز</string>
+    <string name="current_uptime">وقت التشغيل الحالي</string>
+    <string name="last_boot_time">آخر إعادة تشغيل</string>
+    <string name="time_since_boot">المدة منذ الإقلاع</string>
+    <string name="days">أيام</string>
+    <string name="hours">ساعات</string>
+    <string name="minutes">دقائق</string>
+    <string name="seconds">ثواني</string>
+
+    <!-- Scanner -->
+    <string name="device_health_scanner">فاحص صحة الجهاز</string>
+    <string name="scan_progress">جاري فحص %1$s…</string>
+    <string name="step_device">01 الجهاز</string>
+    <string name="step_battery">02 البطارية</string>
+    <string name="step_storage">03 التخزين</string>
+    <string name="step_memory">04 الذاكرة</string>
+    <string name="step_cpu">05 المعالج</string>
+    <string name="step_sensors">06 المستشعرات</string>
+    <string name="step_connectivity">07 الاتصالات</string>
+    <string name="step_display">08 الشاشة</string>
+    <string name="step_camera">09 الكاميرا</string>
+    <string name="step_security">10 الأمان</string>
+    <string name="scan_results">نتائج الفحص</string>
+    <string name="status_healthy">سليم</string>
+    <string name="status_warning">تحذير</string>
+    <string name="status_critical">حرج</string>
+
+    <!-- Issues -->
+    <string name="problem">المشكلة</string>
+    <string name="why_it_matters">أهمية المشكلة</string>
+    <string name="recommendation">الإجراء الموصى به</string>
+    <string name="issue_storage_almost_full">مساحة التخزين شبه ممتلئة</string>
+    <string name="issue_storage_almost_full_why">المساحة المتبقية أقل من 10% من إجمالي التخزين.</string>
+    <string name="issue_storage_almost_full_rec">احذف الملفات الزائدة أو التطبيقات غير المستخدمة.</string>
+    <string name="issue_ram_low">انخفاض الذاكرة المتاحة</string>
+    <string name="issue_ram_low_why">نقص الذاكرة المتاحة قد يسبب بطئاً في استجابة الواجهة وإغلاق التطبيقات.</string>
+    <string name="issue_ram_low_rec">أغلق التطبيقات غير المستخدمة في الخلفية أو أعد تشغيل الهاتف.</string>
+    <string name="issue_battery_temp_high">ارتفاع حرارة البطارية</string>
+    <string name="issue_battery_temp_high_why">الحرارة التي تتجاوز 40 درجة مئوية تسرع تدهور خلايا الليثيوم كيميائياً.</string>
+    <string name="issue_battery_temp_high_rec">افصل الشاحن السريع واترك الجهاز يبرد في درجة حرارة الغرفة.</string>
+    <string name="issue_security_patch_outdated">تصحيح الأمان قديم</string>
+    <string name="issue_security_patch_outdated_why">مستوى التحديث الأمني أقدم من 6 أشهر.</string>
+    <string name="issue_security_patch_outdated_rec">راجع تحديثات النظام لتثبيت الحزم الأمنية المتوفرة.</string>
+    <string name="issue_bluetooth_disabled">البلوتوث معطل</string>
+    <string name="issue_bluetooth_disabled_why">محول البلوتوث مغلق حالياً.</string>
+    <string name="issue_bluetooth_disabled_rec">قم بتفعيل البلوتوث في حال أردت استخدام الملحقات اللاسلكية.</string>
+
+    <!-- Hardware Tests -->
+    <string name="hardware_test">اختبار العتاد</string>
+    <string name="hardware_test_desc">تشخيص تفاعلي لمكونات الهاتف الفيزيائية</string>
+    <string name="test_touch">اختبار اللمس (Touch)</string>
+    <string name="test_multitouch">اختبار اللمس المتعدد</string>
+    <string name="test_display">اختبار الشاشة والبكسلات</string>
+    <string name="test_vibration">اختبار الاهتزاز</string>
+    <string name="test_speaker">اختبار مكبر الصوت الرئيسي</string>
+    <string name="test_earpiece">اختبار سماعة المكالمات</string>
+    <string name="test_microphone">اختبار الميكروفون</string>
+    <string name="test_camera_front">اختبار الكاميرا الأمامية</string>
+    <string name="test_camera_rear">اختبار الكاميرا الخلفية</string>
+    <string name="test_flash">اختبار الفلاش / المصباح</string>
+    <string name="test_sensors">لوحة المستشعرات المباشرة</string>
+    <string name="test_connectivity">اختبار الاتصال اللاسلكي</string>
+    <string name="pass">نجاح (PASS)</string>
+    <string name="fail">فشل (FAIL)</string>
+    <string name="skip">تخطي (SKIP)</string>
+    <string name="passed">ناجح</string>
+    <string name="failed">غير ناجح</string>
+    <string name="touch_coverage">تغطية اللمس</string>
+    <string name="touch_hint">المس أو اسحب فوق جميع المربعات على الشاشة</string>
+    <string name="multitouch_hint">ضع عدة أصابع على الشاشة في نفس الوقت</string>
+    <string name="detected_points">نقاط اللمس المتزامنة: %1$d</string>
+    <string name="max_detected">أقصى عدد تم رصده: %1$d</string>
+    <string name="start_display_test">بدء اختبار الشاشة</string>
+    <string name="display_test_hint">انقر للتبديل بين الألوان (أحمر، أخضر، أزرق، أبيض، أسود، رمادي) لفحص أي بكسلات معطلة.</string>
+    <string name="play_test_sound">تشغيل صوت الاختبار</string>
+    <string name="did_you_hear_sound">هل سمعت نغمة التشخيص بوضوح؟</string>
+    <string name="record_test">تسجيل اختبار (3 ثوانٍ)</string>
+    <string name="recording_active">جاري الاستماع إلى الإدخال الصوتي…</string>
+    <string name="mic_response_good">استجابة الميكروفون: جيدة ونقية</string>
+    <string name="mic_response_weak">استجابة الميكروفون: منخفضة أو غير واضحة</string>
+    <string name="test_vibrate_prompt">جاري اختبار محرك الاهتزاز…</string>
+    <string name="did_device_vibrate">هل اهتز هاتفك بشكل ملحوظ؟</string>
+    <string name="toggle_torch">تشغيل / إيقاف الفلاش</string>
+
+    <!-- Sensors -->
+    <string name="sensors">المستشعرات</string>
+    <string name="accelerometer">مقياس التسارع (Accelerometer)</string>
+    <string name="gyroscope">الجيروسكوب (Gyroscope)</string>
+    <string name="magnetometer">البوصلة المغناطيسية</string>
+    <string name="light_sensor">مستشعر الإضاءة المحيطة</string>
+    <string name="proximity_sensor">مستشعر التقارب</string>
+    <string name="pressure_sensor">البارومتر (الضغط الجوي)</string>
+    <string name="rotation_vector">متجه الدوران ثلاثي الأبعاد</string>
+    <string name="available">متوفر ونشط</string>
+    <string name="unavailable">غير متاح</string>
+
+    <!-- Storage Analyzer -->
+    <string name="storage_analyzer">محلل التخزين</string>
+    <string name="used_label">المستخدم</string>
+    <string name="free_label">المتبقي</string>
+    <string name="category_apps">التطبيقات والبيانات</string>
+    <string name="category_media">الصور والفيديوهات</string>
+    <string name="category_audio">الصوتيات والموسيقى</string>
+    <string name="category_documents">المستندات</string>
+    <string name="category_system">النظام وملفات أخرى</string>
+
+    <!-- RAM & CPU -->
+    <string name="ram_cpu_monitor">مراقب الذاكرة والمعالج</string>
+    <string name="ram_usage">استهلاك الذاكرة</string>
+    <string name="cpu_usage">نشاط المعالج</string>
+    <string name="cores">أنوية</string>
+
+    <!-- Connectivity -->
+    <string name="connectivity">الاتصال والشبكة</string>
+    <string name="mobile_network">شبكة الهاتف الخلوي</string>
+    <string name="connected">متصل</string>
+    <string name="disconnected">غير متصل</string>
+    <string name="link_speed">سرعة الرابط</string>
+    <string name="signal_strength">قوة الإشارة</string>
+
+    <!-- Security -->
+    <string name="security_center">مركز الأمان</string>
+    <string name="screen_lock">قفل الشاشة</string>
+    <string name="secured">محمي (رمز / بصمة / كلمة مرور)</string>
+    <string name="not_secured">غير محمي</string>
+    <string name="biometrics">العتاد الحيوي (البيومتري)</string>
+    <string name="encryption">تشفير الذاكرة</string>
+    <string name="encrypted">التشفير العتادي نشط</string>
+
+    <!-- Reports & History -->
+    <string name="phone_health_report">تقرير صحة الهاتف</string>
+    <string name="test_history">سجل الاختبارات</string>
+    <string name="compare_results">مقارنة النتائج</string>
+    <string name="share_report">مشاركة التقرير</string>
+    <string name="export_report">تصدير التقرير</string>
+    <string name="no_history_yet">لا توجد فحوصات مسجلة بعد.</string>
+    <string name="run_first_scan">قم بإجراء فحص لتسجيل أول تقرير صحي.</string>
+    <string name="previous">السابق</string>
+    <string name="latest">الأحدث</string>
+    <string name="warnings_count">%1$d تنبيهات</string>
+
+    <!-- Settings & About -->
+    <string name="settings">الإعدادات</string>
+    <string name="appearance">المظهر</string>
+    <string name="theme_mode">نمط السمة</string>
+    <string name="dark_mode">الوضع الداكن الفاخر</string>
+    <string name="light_mode">الوضع الفاتح البسيط</string>
+    <string name="system_mode">حسب النظام</string>
+    <string name="accent_color">لون التمييز (Accent)</string>
+    <string name="accent_cyan">أزرق سماوي (Cyan)</string>
+    <string name="accent_emerald">أخضر زمردي (Emerald)</string>
+    <string name="accent_gold">ذهبي إمبراطوري (Gold)</string>
+    <string name="accent_violet">بنفسجي ساطع (Violet)</string>
+    <string name="language">اللغة</string>
+    <string name="notifications_alerts">تنبيهات الصحة</string>
+    <string name="auto_scan">الفحص الدوري التلقائي</string>
+    <string name="battery_alerts">تنبيهات حرارة البطارية</string>
+    <string name="storage_alerts">تحذيرات انخفاض التخزين</string>
+    <string name="privacy_center">مركز الخصوصية</string>
+    <string name="privacy_statement">تتم جميع عمليات الفحص محلياً على جهازك دون إرسال أي بيانات خاصة أو حسابات أو كلمات مرور أو تفاصيل حيوية إلى أي خادم خارجي. نعتمد فقط على واجهات أندرويد الرسمية المصرح بها.</string>
+    <string name="about">حول التطبيق</string>
+    <string name="developer">المطور</string>
+    <string name="developer_name">Sina Naderi</string>
+    <string name="developer_email">sinananderi@gmail.com</string>
+    <string name="version">الإصدار 1.0.0</string>
+    <string name="close">إغلاق</string>
+    <string name="cancel">إلغاء</string>
+    <string name="ok">موافق</string>
+</resources>

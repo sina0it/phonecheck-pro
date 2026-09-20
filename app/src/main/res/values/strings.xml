@@ -1,0 +1,270 @@
+<resources>
+    <string name="app_name">PhoneCheck Pro</string>
+    <string name="app_subtitle">Professional Diagnostic Suite</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_device">Device</string>
+    <string name="nav_tests">Tests</string>
+    <string name="nav_health">Health</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="health_score">Health Score</string>
+    <string name="device_healthy">Device Healthy</string>
+    <string name="issues_detected">Issues Detected</string>
+    <string name="attention_required">Attention Required</string>
+    <string name="scan_my_phone">SCAN MY PHONE</string>
+    <string name="scanning_device">SCANNING DEVICE…</string>
+    <string name="quick_metrics">Key Metrics</string>
+    <string name="uptime">Uptime</string>
+    <string name="storage">Storage</string>
+    <string name="memory_ram">RAM</string>
+    <string name="battery">Battery</string>
+    <string name="cpu">CPU</string>
+    <string name="gpu">GPU</string>
+    <string name="display">Display</string>
+    <string name="temperature">Temp</string>
+
+    <!-- Device Info -->
+    <string name="device_information">Device Information</string>
+    <string name="device_identity">Device Identity</string>
+    <string name="manufacturing_region">Manufacturing &amp; Region</string>
+    <string name="hardware_specifications">Hardware Specifications</string>
+    <string name="system_os">Operating System</string>
+    <string name="display_specs">Display Specifications</string>
+    <string name="camera_specs">Camera Hardware</string>
+    <string name="brand">Brand</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="exact_model">Exact Model</string>
+    <string name="model_number">Model Number</string>
+    <string name="device_name">Device Name</string>
+    <string name="product_name">Product Name</string>
+    <string name="device_family">Device Family / Board</string>
+    <string name="device_id">Device ID</string>
+    <string name="android_version">Android Version</string>
+    <string name="android_sdk">API Level</string>
+    <string name="build_number">Build Number</string>
+    <string name="kernel_version">Kernel Version</string>
+    <string name="security_patch">Security Patch</string>
+    <string name="bootloader">Bootloader</string>
+    <string name="cpu_architecture">Architecture</string>
+    <string name="cpu_cores">CPU Cores</string>
+    <string name="cpu_frequency">CPU Frequency</string>
+    <string name="total_ram">Total RAM</string>
+    <string name="available_ram">Available RAM</string>
+    <string name="used_ram">Used RAM</string>
+    <string name="total_storage">Total Storage</string>
+    <string name="available_storage">Available Storage</string>
+    <string name="used_storage">Used Storage</string>
+    <string name="screen_resolution">Resolution</string>
+    <string name="screen_density">Density</string>
+    <string name="refresh_rate">Refresh Rate</string>
+    <string name="screen_size">Screen Size</string>
+    <string name="front_camera">Front Camera</string>
+    <string name="rear_camera">Rear Camera</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="nfc">NFC</string>
+    <string name="usb">USB</string>
+    <string name="gps">GPS</string>
+    <string name="fingerprint_sensor">Fingerprint Sensor</string>
+    <string name="face_authentication">Face Authentication</string>
+    <string name="not_available">Not available on this device</string>
+    <string name="unknown">Unknown</string>
+    <string name="brand_origin">Brand Origin</string>
+    <string name="assembly_country">Assembly Country</string>
+    <string name="release_year">Release Year</string>
+    <string name="manufacturing_region_name">Manufacturing Region</string>
+    <string name="device_market">Device Market</string>
+    <string name="model_region_code">Model Region Code</string>
+
+    <!-- Battery -->
+    <string name="battery_health">Battery Health</string>
+    <string name="battery_level">Battery Level</string>
+    <string name="battery_temperature">Temperature</string>
+    <string name="battery_voltage">Voltage</string>
+    <string name="battery_current">Charging Current</string>
+    <string name="charging_status">Charging Status</string>
+    <string name="power_source">Power Source</string>
+    <string name="battery_capacity">Capacity</string>
+    <string name="design_capacity">Design Capacity</string>
+    <string name="remaining_capacity">Remaining Capacity</string>
+    <string name="battery_technology">Technology</string>
+    <string name="cycle_count">Cycle Count</string>
+    <string name="battery_status">Battery Status</string>
+    <string name="battery_excellent">Excellent</string>
+    <string name="battery_good">Good</string>
+    <string name="battery_degraded">Battery degradation detected</string>
+    <string name="battery_info_note">Note: Battery Level is the current percentage of energy remaining. Battery Health indicates the long-term chemical condition and longevity of the battery cell. Android policy restricts raw hardware cycle counts on many devices without OEM system privileges.</string>
+
+    <!-- Uptime -->
+    <string name="device_uptime">Device Uptime</string>
+    <string name="current_uptime">Current Uptime</string>
+    <string name="last_boot_time">Last Boot</string>
+    <string name="time_since_boot">Time Since Boot</string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+
+    <!-- Scanner -->
+    <string name="device_health_scanner">Device Health Scanner</string>
+    <string name="scan_progress">Scanning %1$s…</string>
+    <string name="step_device">01 Device</string>
+    <string name="step_battery">02 Battery</string>
+    <string name="step_storage">03 Storage</string>
+    <string name="step_memory">04 Memory</string>
+    <string name="step_cpu">05 CPU</string>
+    <string name="step_sensors">06 Sensors</string>
+    <string name="step_connectivity">07 Connectivity</string>
+    <string name="step_display">08 Display</string>
+    <string name="step_camera">09 Camera</string>
+    <string name="step_security">10 Security</string>
+    <string name="scan_results">Diagnostic Results</string>
+    <string name="status_healthy">Healthy</string>
+    <string name="status_warning">Warning</string>
+    <string name="status_critical">Critical</string>
+
+    <!-- Issues -->
+    <string name="problem">Problem</string>
+    <string name="why_it_matters">Why it matters</string>
+    <string name="recommendation">Recommendation</string>
+    <string name="issue_storage_almost_full">Storage almost full</string>
+    <string name="issue_storage_almost_full_why">Your device has less than 10% free storage space remaining.</string>
+    <string name="issue_storage_almost_full_rec">Delete unnecessary media files, clear cached application data, or uninstall unused apps.</string>
+    <string name="issue_ram_low">Low available RAM</string>
+    <string name="issue_ram_low_why">Available memory is low, which may lead to sluggish UI and background app terminations.</string>
+    <string name="issue_ram_low_rec">Close background tasks or restart device if performance degrades.</string>
+    <string name="issue_battery_temp_high">Battery temperature elevated</string>
+    <string name="issue_battery_temp_high_why">Elevated temperature (>40°C) accelerates chemical degradation of lithium-ion cells.</string>
+    <string name="issue_battery_temp_high_rec">Disconnect fast charger and allow device to cool in ambient temperature.</string>
+    <string name="issue_security_patch_outdated">Security patch outdated</string>
+    <string name="issue_security_patch_outdated_why">System security patch is older than 6 months, leaving potential vulnerabilities unpatched.</string>
+    <string name="issue_security_patch_outdated_rec">Check System Settings > Software Update for available firmware patches.</string>
+    <string name="issue_bluetooth_disabled">Bluetooth disabled</string>
+    <string name="issue_bluetooth_disabled_why">Wireless radio is currently switched off.</string>
+    <string name="issue_bluetooth_disabled_rec">Turn on Bluetooth in quick settings if wireless accessories are needed.</string>
+
+    <!-- Hardware Tests -->
+    <string name="hardware_test">Hardware Test</string>
+    <string name="hardware_test_desc">Run interactive diagnostics on physical hardware</string>
+    <string name="test_touch">Touch Screen Test</string>
+    <string name="test_multitouch">Multi-Touch Test</string>
+    <string name="test_display">Display &amp; Pixel Test</string>
+    <string name="test_vibration">Vibration Motor Test</string>
+    <string name="test_speaker">Speaker Test</string>
+    <string name="test_earpiece">Earpiece Test</string>
+    <string name="test_microphone">Microphone Test</string>
+    <string name="test_camera_front">Front Camera Test</string>
+    <string name="test_camera_rear">Rear Camera Test</string>
+    <string name="test_flash">Flashlight Test</string>
+    <string name="test_sensors">Sensor Dashboard</string>
+    <string name="test_connectivity">Connectivity Test</string>
+    <string name="pass">PASS</string>
+    <string name="fail">FAIL</string>
+    <string name="skip">SKIP</string>
+    <string name="passed">Passed</string>
+    <string name="failed">Failed</string>
+    <string name="touch_coverage">Touch Coverage</string>
+    <string name="touch_hint">Touch or swipe every tile on screen</string>
+    <string name="multitouch_hint">Place multiple fingers on the screen simultaneously</string>
+    <string name="detected_points">Detected Touch Points: %1$d</string>
+    <string name="max_detected">Max Detected: %1$d</string>
+    <string name="start_display_test">START DISPLAY TEST</string>
+    <string name="display_test_hint">Tap screen to cycle colors (Red, Green, Blue, White, Black, Gray) to check for dead or stuck pixels.</string>
+    <string name="play_test_sound">PLAY TEST SOUND</string>
+    <string name="did_you_hear_sound">Did you hear the acoustic diagnostic tone clearly?</string>
+    <string name="record_test">RECORD TEST (3s)</string>
+    <string name="recording_active">Listening to audio input…</string>
+    <string name="mic_response_good">Microphone Response: Good</string>
+    <string name="mic_response_weak">Microphone Response: Low amplitude</string>
+    <string name="test_vibrate_prompt">Testing haptic motor vibration…</string>
+    <string name="did_device_vibrate">Did your device vibrate distinctly?</string>
+    <string name="toggle_torch">TOGGLE FLASHLIGHT</string>
+
+    <!-- Sensors -->
+    <string name="sensors">Sensors</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="magnetometer">Magnetometer (Compass)</string>
+    <string name="light_sensor">Light Sensor</string>
+    <string name="proximity_sensor">Proximity Sensor</string>
+    <string name="pressure_sensor">Barometer (Pressure)</string>
+    <string name="rotation_vector">Rotation Vector</string>
+    <string name="available">Available</string>
+    <string name="unavailable">Unavailable</string>
+
+    <!-- Storage Analyzer -->
+    <string name="storage_analyzer">Storage Analyzer</string>
+    <string name="used_label">Used</string>
+    <string name="free_label">Free</string>
+    <string name="category_apps">Applications &amp; Data</string>
+    <string name="category_media">Photos &amp; Videos</string>
+    <string name="category_audio">Audio &amp; Music</string>
+    <string name="category_documents">Documents</string>
+    <string name="category_system">System &amp; Other</string>
+
+    <!-- RAM & CPU -->
+    <string name="ram_cpu_monitor">RAM &amp; CPU Monitor</string>
+    <string name="ram_usage">RAM Usage</string>
+    <string name="cpu_usage">CPU Activity</string>
+    <string name="cores">Cores</string>
+
+    <!-- Connectivity -->
+    <string name="connectivity">Connectivity</string>
+    <string name="mobile_network">Mobile Network</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="link_speed">Link Speed</string>
+    <string name="signal_strength">Signal Strength</string>
+
+    <!-- Security -->
+    <string name="security_center">Security Center</string>
+    <string name="screen_lock">Screen Lock / Keyguard</string>
+    <string name="secured">Secured (PIN / Biometric / Password)</string>
+    <string name="not_secured">Unsecured</string>
+    <string name="biometrics">Biometric Hardware</string>
+    <string name="encryption">Storage Encryption</string>
+    <string name="encrypted">Hardware-backed Encryption Active</string>
+
+    <!-- Reports & History -->
+    <string name="phone_health_report">PHONE HEALTH REPORT</string>
+    <string name="test_history">Test History</string>
+    <string name="compare_results">Compare Results</string>
+    <string name="share_report">Share Report</string>
+    <string name="export_report">Export Report</string>
+    <string name="no_history_yet">No diagnostic scans recorded yet.</string>
+    <string name="run_first_scan">Run a scan to generate your first health record.</string>
+    <string name="previous">Previous</string>
+    <string name="latest">Latest</string>
+    <string name="warnings_count">%1$d Warnings</string>
+
+    <!-- Settings & About -->
+    <string name="settings">Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="theme_mode">Theme Mode</string>
+    <string name="dark_mode">Dark Luxury</string>
+    <string name="light_mode">Light Minimal</string>
+    <string name="system_mode">Follow System</string>
+    <string name="accent_color">Accent Color</string>
+    <string name="accent_cyan">Cyan Sapphire</string>
+    <string name="accent_emerald">Emerald Green</string>
+    <string name="accent_gold">Imperial Gold</string>
+    <string name="accent_violet">Electric Violet</string>
+    <string name="language">Language</string>
+    <string name="notifications_alerts">Health Notifications</string>
+    <string name="auto_scan">Auto Diagnostic Check</string>
+    <string name="battery_alerts">Battery Temperature Alerts</string>
+    <string name="storage_alerts">Low Storage Warnings</string>
+    <string name="privacy_center">Privacy Center</string>
+    <string name="privacy_statement">All diagnostic checks run locally on your device. We do not transmit or collect private user data, accounts, passwords, biometric details, or location records. Only official Android APIs are queried.</string>
+    <string name="about">About</string>
+    <string name="developer">Developer</string>
+    <string name="developer_name">Sina Naderi</string>
+    <string name="developer_email">sinananderi@gmail.com</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="close">Close</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>

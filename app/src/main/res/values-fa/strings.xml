@@ -1,0 +1,270 @@
+<resources>
+    <string name="app_name">PhoneCheck Pro</string>
+    <string name="app_subtitle">مجموعه تخصصی بررسی سلامت و عیبیابی گوشی</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">خانه</string>
+    <string name="nav_device">دستگاه</string>
+    <string name="nav_tests">تستها</string>
+    <string name="nav_health">سلامت</string>
+    <string name="nav_settings">تنظیمات</string>
+
+    <!-- Dashboard -->
+    <string name="health_score">امتیاز سلامت</string>
+    <string name="device_healthy">وضعیت دستگاه سالم است</string>
+    <string name="issues_detected">مواردی شناسایی شد</string>
+    <string name="attention_required">نیاز به توجه</string>
+    <string name="scan_my_phone">اسکن کامل گوشی</string>
+    <string name="scanning_device">در حال اسکن عمیق دستگاه…</string>
+    <string name="quick_metrics">اطلاعات کلیدی</string>
+    <string name="uptime">زمان روشن بودن</string>
+    <string name="storage">حافظه ذخیرهسازی</string>
+    <string name="memory_ram">رم دستگاه</string>
+    <string name="battery">باتری</string>
+    <string name="cpu">پردازنده</string>
+    <string name="gpu">گرافیک</string>
+    <string name="display">صفحه نمایش</string>
+    <string name="temperature">دما</string>
+
+    <!-- Device Info -->
+    <string name="device_information">اطلاعات کامل گوشی</string>
+    <string name="device_identity">مشخصات و هویت دستگاه</string>
+    <string name="manufacturing_region">کشور سازنده و منطقه</string>
+    <string name="hardware_specifications">مشخصات سختافزاری</string>
+    <string name="system_os">سیستم عامل</string>
+    <string name="display_specs">مشخصات نمایشگر</string>
+    <string name="camera_specs">سختافزار دوربین</string>
+    <string name="brand">برند</string>
+    <string name="manufacturer">سازنده</string>
+    <string name="exact_model">مدل دقیق</string>
+    <string name="model_number">شماره مدل</string>
+    <string name="device_name">نام دستگاه</string>
+    <string name="product_name">نام محصول</string>
+    <string name="device_family">خانواده / بورد</string>
+    <string name="device_id">شناسه دستگاه</string>
+    <string name="android_version">نسخه اندروید</string>
+    <string name="android_sdk">سطح SDK</string>
+    <string name="build_number">شماره ساخت (Build)</string>
+    <string name="kernel_version">نسخه کرنل</string>
+    <string name="security_patch">پچ امنیتی</string>
+    <string name="bootloader">وضعیت بوتلودر</string>
+    <string name="cpu_architecture">معماری پردازنده</string>
+    <string name="cpu_cores">تعداد هستههای پردازنده</string>
+    <string name="cpu_frequency">فرکانس پردازنده</string>
+    <string name="total_ram">کل حافظه رم</string>
+    <string name="available_ram">رم در دسترس</string>
+    <string name="used_ram">رم مصرفی</string>
+    <string name="total_storage">کل حافظه ذخیرهسازی</string>
+    <string name="available_storage">فضای آزاد</string>
+    <string name="used_storage">فضای اشغالشده</string>
+    <string name="screen_resolution">رزولوشن تصویر</string>
+    <string name="screen_density">تراکم پیکسلی</string>
+    <string name="refresh_rate">نرخ نوسازی</string>
+    <string name="screen_size">اندازه نمایشگر</string>
+    <string name="front_camera">دوربین جلو</string>
+    <string name="rear_camera">دوربین اصلی پشت</string>
+    <string name="bluetooth">بلوتوث</string>
+    <string name="wifi">وایفای</string>
+    <string name="nfc">انافسی (NFC)</string>
+    <string name="usb">درگاه USB</string>
+    <string name="gps">موقعیت‌یاب GPS</string>
+    <string name="fingerprint_sensor">حسگر اثر انگشت</string>
+    <string name="face_authentication">تشخیص چهره</string>
+    <string name="not_available">Not available on this device</string>
+    <string name="unknown">Unknown</string>
+    <string name="brand_origin">کشور مبدا برند</string>
+    <string name="assembly_country">کشور مونتاژ</string>
+    <string name="release_year">سال عرضه</string>
+    <string name="manufacturing_region_name">منطقه تولید</string>
+    <string name="device_market">بازار عرضه</string>
+    <string name="model_region_code">کد منطقه مدل</string>
+
+    <!-- Battery -->
+    <string name="battery_health">سلامت باتری</string>
+    <string name="battery_level">درصد شارژ باتری</string>
+    <string name="battery_temperature">دمای باتری</string>
+    <string name="battery_voltage">ولتاژ باتری</string>
+    <string name="battery_current">جریان شارژ</string>
+    <string name="charging_status">وضعیت اتصال شارژر</string>
+    <string name="power_source">منبع شارژ</string>
+    <string name="battery_capacity">ظرفیت باتری</string>
+    <string name="design_capacity">ظرفیت طراحی</string>
+    <string name="remaining_capacity">ظرفیت تخمینی باقیمانده</string>
+    <string name="battery_technology">تکنولوژی باتری</string>
+    <string name="cycle_count">تعداد دفعات شارژ (سایکل)</string>
+    <string name="battery_status">وضعیت عمومی باتری</string>
+    <string name="battery_excellent">عالی (Excellent)</string>
+    <string name="battery_good">مناسب (Good)</string>
+    <string name="battery_degraded">افت سلامت باتری شناسایی شد</string>
+    <string name="battery_info_note">نکته مهم: درصد شارژ (Battery Level) نشاندهنده انرژی باقیمانده در لحظه است. در حالی که سلامت باتری (Battery Health) نشاندهنده وضعیت شیمیایی و افت طول عمر سلول است. در اندروید استخراج تعداد دفعات شارژ واقعی روی بسیاری از گوشیها نیازمند دسترسیهای سیستمی سازنده میباشد.</string>
+
+    <!-- Uptime -->
+    <string name="device_uptime">زمان روشن بودن گوشی</string>
+    <string name="current_uptime">مدت زمان روشن بودن فعلی</string>
+    <string name="last_boot_time">آخرین زمان راهاندازی مجدد</string>
+    <string name="time_since_boot">زمان سپری شده از روشن شدن</string>
+    <string name="days">روز</string>
+    <string name="hours">ساعت</string>
+    <string name="minutes">دقیقه</string>
+    <string name="seconds">ثانیه</string>
+
+    <!-- Scanner -->
+    <string name="device_health_scanner">اسکنر سلامت دستگاه</string>
+    <string name="scan_progress">در حال بررسی %1$s…</string>
+    <string name="step_device">01 مشخصات دستگاه</string>
+    <string name="step_battery">02 باتری</string>
+    <string name="step_storage">03 حافظه ذخیرهسازی</string>
+    <string name="step_memory">04 حافظه رم</string>
+    <string name="step_cpu">05 پردازنده</string>
+    <string name="step_sensors">06 حسگرها</string>
+    <string name="step_connectivity">07 اتصالات و شبکه</string>
+    <string name="step_display">08 صفحه نمایش</string>
+    <string name="step_camera">09 دوربین</string>
+    <string name="step_security">10 امنیت</string>
+    <string name="scan_results">نتایج بررسی تشخیصی</string>
+    <string name="status_healthy">سالم</string>
+    <string name="status_warning">هشدار</string>
+    <string name="status_critical">بحرانی</string>
+
+    <!-- Issues -->
+    <string name="problem">مشکل</string>
+    <string name="why_it_matters">علت اهمیت</string>
+    <string name="recommendation">اقدام پیشنهادی</string>
+    <string name="issue_storage_almost_full">حافظه داخلی تقریباً پر است</string>
+    <string name="issue_storage_almost_full_why">کمتر از ۱۰ درصد فضای آزاد در حافظه داخلی گوشی باقیمانده است.</string>
+    <string name="issue_storage_almost_full_rec">فایلهای اضافی، کش برنامهها یا برنامههای بلااستفاده را پاک کنید.</string>
+    <string name="issue_ram_low">حافظه رم آزاد بسیار کم است</string>
+    <string name="issue_ram_low_why">کمبود رم آزاد میتواند منجر به افت سرعت و بسته شدن ناگهانی برنامهها در پسزمینه شود.</string>
+    <string name="issue_ram_low_rec">برنامههای غیرضروری باز در پسزمینه را ببندید یا گوشی را ریستارت کنید.</string>
+    <string name="issue_battery_temp_high">دمای باتری بالاتر از حد معمول است</string>
+    <string name="issue_battery_temp_high_why">دمای بالاتر از ۴۰ درجه سانتیگراد استهلاک شیمیایی باتری لیتیومی را به شدت افزایش میدهد.</string>
+    <string name="issue_battery_temp_high_rec">شارژر سریع را جدا کرده و اجازه دهید گوشی در دمای محیط خنک شود.</string>
+    <string name="issue_security_patch_outdated">پچ امنیتی اندروید قدیمی است</string>
+    <string name="issue_security_patch_outdated_why">پچ امنیتی دستگاه بیش از ۶ ماه بروزرسانی نشده است و ممکن است آسیبپذیری داشته باشد.</string>
+    <string name="issue_security_patch_outdated_rec">به تنظیمات سیستم > بروزرسانی نرمافزار مراجعه کنید.</string>
+    <string name="issue_bluetooth_disabled">بلوتوث غیرفعال است</string>
+    <string name="issue_bluetooth_disabled_why">رادیوی بیسیم بلوتوث در حال حاضر خاموش است.</string>
+    <string name="issue_bluetooth_disabled_rec">در صورت نیاز به لوازم جانبی بیسیم، بلوتوث را فعال کنید.</string>
+
+    <!-- Hardware Tests -->
+    <string name="hardware_test">تست سختافزاری</string>
+    <string name="hardware_test_desc">بررسی و عیبیابی تعاملی قطعات سختافزار گوشی</string>
+    <string name="test_touch">تست لمس صفحه (Touch)</string>
+    <string name="test_multitouch">تست چند لمسی (Multi-Touch)</string>
+    <string name="test_display">تست صفحه نمایش و پیکسلهای سوخته</string>
+    <string name="test_vibration">تست موتور ویبره</string>
+    <string name="test_speaker">تست بلندگوی اصلی</string>
+    <string name="test_earpiece">تست بلندگوی مکالمه</string>
+    <string name="test_microphone">تست میکروفون</string>
+    <string name="test_camera_front">تست دوربین سلفی</string>
+    <string name="test_camera_rear">تست دوربین پشت</string>
+    <string name="test_flash">تست فلش و چراغ قوه</string>
+    <string name="test_sensors">داشبورد زنده سنسورها</string>
+    <string name="test_connectivity">تست اتصالات بیسیم</string>
+    <string name="pass">تایید (PASS)</string>
+    <string name="fail">رد (FAIL)</string>
+    <string name="skip">رد شدن (SKIP)</string>
+    <string name="passed">موفق</string>
+    <string name="failed">ناموفق</string>
+    <string name="touch_coverage">پوشش لمس</string>
+    <string name="touch_hint">روی تمام خانههای شبکه لمس یا سوایپ کنید</string>
+    <string name="multitouch_hint">چند انگشت خود را همزمان روی صفحه قرار دهید</string>
+    <string name="detected_points">نقاط لمس همزمان: %1$d</string>
+    <string name="max_detected">حداکثر شناسایی شده: %1$d</string>
+    <string name="start_display_test">شروع تست صفحه نمایش</string>
+    <string name="display_test_hint">با لمس صفحه، رنگها (قرمز، سبز، آبی، سفید، سیاه، خاکستری) تغییر میکنند تا پیکسلهای سوخته یا Burn-in مشخص شوند.</string>
+    <string name="play_test_sound">پخش صدای تست</string>
+    <string name="did_you_hear_sound">آیا صدای بوق آزمایشی را به وضوح شنیدید؟</string>
+    <string name="record_test">ضبط آزمایشی (۳ ثانیه)</string>
+    <string name="recording_active">در حال گوش دادن به صدای ورودی…</string>
+    <string name="mic_response_good">پاسخ میکروفون: مناسب و شفاف</string>
+    <string name="mic_response_weak">پاسخ میکروفون: ضعیف یا کمصدا</string>
+    <string name="test_vibrate_prompt">در حال اجرای لرزش موتور ویبره…</string>
+    <string name="did_device_vibrate">آیا گوشی شما لرزید؟</string>
+    <string name="toggle_torch">روشن/خاموش کردن فلش</string>
+
+    <!-- Sensors -->
+    <string name="sensors">سنسورها</string>
+    <string name="accelerometer">شتابسنج (Accelerometer)</string>
+    <string name="gyroscope">ژیروسکوپ (Gyroscope)</string>
+    <string name="magnetometer">قطبنما (Magnetometer)</string>
+    <string name="light_sensor">حسگر روشنایی نور (Light)</string>
+    <string name="proximity_sensor">حسگر مجاورت (Proximity)</string>
+    <string name="pressure_sensor">فشارسنج هوا (Barometer)</string>
+    <string name="rotation_vector">بردار چرخش سهبعدی</string>
+    <string name="available">موجود و فعال</string>
+    <string name="unavailable">در دسترس نیست</string>
+
+    <!-- Storage Analyzer -->
+    <string name="storage_analyzer">تحلیلگر حافظه</string>
+    <string name="used_label">اشغال شده</string>
+    <string name="free_label">آزاد</string>
+    <string name="category_apps">برنامهها و دادهها</string>
+    <string name="category_media">تصاویر و ویدیوها</string>
+    <string name="category_audio">آهنگ و فایلهای صوتی</string>
+    <string name="category_documents">اسناد و دانلودها</string>
+    <string name="category_system">سیستم و سایر</string>
+
+    <!-- RAM & CPU -->
+    <string name="ram_cpu_monitor">مانیتورینگ رم و پردازنده</string>
+    <string name="ram_usage">میزان مصرف رم</string>
+    <string name="cpu_usage">فعالیت پردازنده</string>
+    <string name="cores">هسته</string>
+
+    <!-- Connectivity -->
+    <string name="connectivity">اتصالات و شبکه</string>
+    <string name="mobile_network">شبکه اینترنت همراه</string>
+    <string name="connected">متصل</string>
+    <string name="disconnected">قطع</string>
+    <string name="link_speed">سرعت اتصال</string>
+    <string name="signal_strength">قدرت سیگنال</string>
+
+    <!-- Security -->
+    <string name="security_center">مرکز امنیت</string>
+    <string name="screen_lock">قفل صفحه نمایش</string>
+    <string name="secured">امن (پین / بیومتریک / الگو)</string>
+    <string name="not_secured">بدون قفل امنیتی</string>
+    <string name="biometrics">سختافزار بیومتریک</string>
+    <string name="encryption">رمزنگاری حافظه</string>
+    <string name="encrypted">رمزنگاری سختافزاری فعال</string>
+
+    <!-- Reports & History -->
+    <string name="phone_health_report">گزارش سلامت گوشی</string>
+    <string name="test_history">تاریخچه تستها</string>
+    <string name="compare_results">مقایسه تغییرات</string>
+    <string name="share_report">اشتراکگذاری گزارش</string>
+    <string name="export_report">خروجی گزارش</string>
+    <string name="no_history_yet">هنوز هیچ اسکن تشخیصی ثبت نشده است.</string>
+    <string name="run_first_scan">یک اسکن انجام دهید تا اولین گزارش ثبت شود.</string>
+    <string name="previous">قبلی</string>
+    <string name="latest">جدیدترین</string>
+    <string name="warnings_count">%1$d هشدار</string>
+
+    <!-- Settings & About -->
+    <string name="settings">تنظیمات</string>
+    <string name="appearance">ظاهر برنامه</string>
+    <string name="theme_mode">حالت پوسته</string>
+    <string name="dark_mode">دارک مود لوکس</string>
+    <string name="light_mode">لایت مود مینیمال</string>
+    <string name="system_mode">هماهنگ با سیستم</string>
+    <string name="accent_color">رنگ زمینه (Accent)</string>
+    <string name="accent_cyan">آبی فیروزهای (Cyan)</string>
+    <string name="accent_emerald">سبز زمردی (Emerald)</string>
+    <string name="accent_gold">طلایی سلطنتی (Gold)</string>
+    <string name="accent_violet">بنفش الکتریکی (Violet)</string>
+    <string name="language">زبان برنامه</string>
+    <string name="notifications_alerts">اعلانهای وضعیت سلامت</string>
+    <string name="auto_scan">بررسی دورهای خودکار</string>
+    <string name="battery_alerts">هشدار دمای بالای باتری</string>
+    <string name="storage_alerts">هشدار پر شدن حافظه</string>
+    <string name="privacy_center">مرکز حریم خصوصی</string>
+    <string name="privacy_statement">تمام بررسیها به صورت کاملاً آفلاین و محلی بر روی گوشی شما انجام میشوند. هیچگونه داده خصوصی، حساب کاربری، رمز عبور، اطلاعات بیومتریک یا موقعیت مکانی استخراج یا ارسال نمیشود. تمام دادهها فقط از طریق APIهای مجاز رسمی اندروید خوانده میشوند.</string>
+    <string name="about">درباره برنامه</string>
+    <string name="developer">توسعهدهنده</string>
+    <string name="developer_name">Sina Naderi</string>
+    <string name="developer_email">sinananderi@gmail.com</string>
+    <string name="version">نسخه 1.0.0</string>
+    <string name="close">بستن</string>
+    <string name="cancel">انصراف</string>
+    <string name="ok">تایید</string>
+</resources>

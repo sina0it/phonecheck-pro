@@ -1,0 +1,270 @@
+<resources>
+    <string name="app_name">PhoneCheck Pro</string>
+    <string name="app_subtitle">专业设备硬件与系统诊断套件</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">首页</string>
+    <string name="nav_device">设备</string>
+    <string name="nav_tests">测试</string>
+    <string name="nav_health">健康</string>
+    <string name="nav_settings">设置</string>
+
+    <!-- Dashboard -->
+    <string name="health_score">健康评分</string>
+    <string name="device_healthy">设备状态良好</string>
+    <string name="issues_detected">检测到潜在问题</string>
+    <string name="attention_required">需要注意</string>
+    <string name="scan_my_phone">开始全面诊断</string>
+    <string name="scanning_device">正在进行深度硬件扫描…</string>
+    <string name="quick_metrics">核心指标</string>
+    <string name="uptime">运行时间</string>
+    <string name="storage">存储空间</string>
+    <string name="memory_ram">运行内存 (RAM)</string>
+    <string name="battery">电池</string>
+    <string name="cpu">处理器</string>
+    <string name="gpu">图形处理器</string>
+    <string name="display">屏幕</string>
+    <string name="temperature">温度</string>
+
+    <!-- Device Info -->
+    <string name="device_information">设备完整信息</string>
+    <string name="device_identity">设备标识与型号</string>
+    <string name="manufacturing_region">制造与产地信息</string>
+    <string name="hardware_specifications">硬件规格参数</string>
+    <string name="system_os">操作系统</string>
+    <string name="display_specs">屏幕显示规格</string>
+    <string name="camera_specs">相机硬件参数</string>
+    <string name="brand">品牌</string>
+    <string name="manufacturer">制造商</string>
+    <string name="exact_model">具体型号</string>
+    <string name="model_number">型号代码</string>
+    <string name="device_name">设备名称</string>
+    <string name="product_name">产品代号</string>
+    <string name="device_family">主板 / 芯片方案</string>
+    <string name="device_id">设备唯一标识</string>
+    <string name="android_version">Android 版本</string>
+    <string name="android_sdk">API 等级</string>
+    <string name="build_number">系统编译版本号</string>
+    <string name="kernel_version">内核版本</string>
+    <string name="security_patch">安全补丁级别</string>
+    <string name="bootloader">引导加载程序状态</string>
+    <string name="cpu_architecture">架构</string>
+    <string name="cpu_cores">CPU 核心数</string>
+    <string name="cpu_frequency">CPU 频率</string>
+    <string name="total_ram">总运行内存</string>
+    <string name="available_ram">可用运行内存</string>
+    <string name="used_ram">已用运行内存</string>
+    <string name="total_storage">总存储容量</string>
+    <string name="available_storage">剩余可用空间</string>
+    <string name="used_storage">已占用空间</string>
+    <string name="screen_resolution">分辨率</string>
+    <string name="screen_density">像素密度</string>
+    <string name="refresh_rate">刷新率</string>
+    <string name="screen_size">屏幕尺寸</string>
+    <string name="front_camera">前置摄像头</string>
+    <string name="rear_camera">后置主摄</string>
+    <string name="bluetooth">蓝牙</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="nfc">NFC 模块</string>
+    <string name="usb">USB 接口</string>
+    <string name="gps">GPS 卫星定位</string>
+    <string name="fingerprint_sensor">指纹识别</string>
+    <string name="face_authentication">人脸识别</string>
+    <string name="not_available">Not available on this device</string>
+    <string name="unknown">Unknown</string>
+    <string name="brand_origin">品牌总部国别</string>
+    <string name="assembly_country">装配制造国家</string>
+    <string name="release_year">发布年份</string>
+    <string name="manufacturing_region_name">制造区域</string>
+    <string name="device_market">发行市场</string>
+    <string name="model_region_code">区域代码</string>
+
+    <!-- Battery -->
+    <string name="battery_health">电池健康度</string>
+    <string name="battery_level">当前剩余电量</string>
+    <string name="battery_temperature">电池温度</string>
+    <string name="battery_voltage">工作电压</string>
+    <string name="battery_current">充电电流</string>
+    <string name="charging_status">充电状态</string>
+    <string name="power_source">电源类型</string>
+    <string name="battery_capacity">电池容量</string>
+    <string name="design_capacity">设计标称容量</string>
+    <string name="remaining_capacity">预估剩余容量</string>
+    <string name="battery_technology">电池技术类型</string>
+    <string name="cycle_count">完整充放电循环次数</string>
+    <string name="battery_status">电池综合状态</string>
+    <string name="battery_excellent">极佳 (Excellent)</string>
+    <string name="battery_good">良好 (Good)</string>
+    <string name="battery_degraded">检测到电池性能衰减</string>
+    <string name="battery_info_note">说明：电量百分比代表当前储能情况，电池健康度表示电芯长期的化学老化状况。在许多机型上，出于系统安全限制，Android 不向第三方应用公开底层循环次数。</string>
+
+    <!-- Uptime -->
+    <string name="device_uptime">设备连续运行时间</string>
+    <string name="current_uptime">当前开机时长</string>
+    <string name="last_boot_time">上次启动时间</string>
+    <string name="time_since_boot">开机至今累计</string>
+    <string name="days">天</string>
+    <string name="hours">小时</string>
+    <string name="minutes">分钟</string>
+    <string name="seconds">秒</string>
+
+    <!-- Scanner -->
+    <string name="device_health_scanner">设备健康度诊断扫描</string>
+    <string name="scan_progress">正在扫描 %1$s…</string>
+    <string name="step_device">01 基本设备</string>
+    <string name="step_battery">02 电池系统</string>
+    <string name="step_storage">03 存储状态</string>
+    <string name="step_memory">04 运行内存</string>
+    <string name="step_cpu">05 处理器运算</string>
+    <string name="step_sensors">06 传感器总线</string>
+    <string name="step_connectivity">07 网络连通性</string>
+    <string name="step_display">08 屏幕像素</string>
+    <string name="step_camera">09 相机模组</string>
+    <string name="step_security">10 系统安全</string>
+    <string name="scan_results">诊断扫描汇总</string>
+    <string name="status_healthy">正常</string>
+    <string name="status_warning">注意</string>
+    <string name="status_critical">严重</string>
+
+    <!-- Issues -->
+    <string name="problem">异常情况</string>
+    <string name="why_it_matters">影响原因</string>
+    <string name="recommendation">建议操作</string>
+    <string name="issue_storage_almost_full">存储空间即将耗尽</string>
+    <string name="issue_storage_almost_full_why">设备剩余可用空间已低于 10%。</string>
+    <string name="issue_storage_almost_full_rec">清理冗余影音缓存或卸载不常用的应用程序。</string>
+    <string name="issue_ram_low">可用运行内存较低</string>
+    <string name="issue_ram_low_why">可用内存不足可能会导致界面轻微掉帧或后台应用被系统强制回收。</string>
+    <string name="issue_ram_low_rec">关闭部分常驻后台程序或重启手机释放缓存。</string>
+    <string name="issue_battery_temp_high">电池温度偏高</string>
+    <string name="issue_battery_temp_high_why">高于 40°C 的温度会加速锂离子电池的不可逆化学老化。</string>
+    <string name="issue_battery_temp_high_rec">暂时断开高功率快充并在室温下静置降温。</string>
+    <string name="issue_security_patch_outdated">安全补丁版本过旧</string>
+    <string name="issue_security_patch_outdated_why">系统安全补丁发布已超过 6 个月，可能存在未修复的安全脆弱点。</string>
+    <string name="issue_security_patch_outdated_rec">进入“系统设置 > 系统更新”检查并安装最新固件。</string>
+    <string name="issue_bluetooth_disabled">蓝牙已关闭</string>
+    <string name="issue_bluetooth_disabled_why">无线蓝牙广播模块当前处于关闭状态。</string>
+    <string name="issue_bluetooth_disabled_rec">如需连接耳机或配件，可在快捷控制栏开启蓝牙。</string>
+
+    <!-- Hardware Tests -->
+    <string name="hardware_test">硬件交互测试</string>
+    <string name="hardware_test_desc">逐项对手机实体功能硬件进行精确诊断</string>
+    <string name="test_touch">屏幕触摸采样测试</string>
+    <string name="test_multitouch">多点触控能力检测</string>
+    <string name="test_display">屏幕坏点与烧屏检测</string>
+    <string name="test_vibration">震动马达反馈测试</string>
+    <string name="test_speaker">主扬声器音频测试</string>
+    <string name="test_earpiece">听筒喇叭声道测试</string>
+    <string name="test_microphone">麦克风输入录音测试</string>
+    <string name="test_camera_front">前置自拍摄像头测试</string>
+    <string name="test_camera_rear">后置高清主摄测试</string>
+    <string name="test_flash">后置闪光灯测试</string>
+    <string name="test_sensors">实时传感器监控台</string>
+    <string name="test_connectivity">网络连接总线测试</string>
+    <string name="pass">通过 (PASS)</string>
+    <string name="fail">失败 (FAIL)</string>
+    <string name="skip">跳过 (SKIP)</string>
+    <string name="passed">已通过</string>
+    <string name="failed">未通过</string>
+    <string name="touch_coverage">触摸覆盖率</string>
+    <string name="touch_hint">请用手指划过屏幕上的每一个网格区域</string>
+    <string name="multitouch_hint">请在屏幕上同时放置多根手指</string>
+    <string name="detected_points">当前触控点数: %1$d</string>
+    <string name="max_detected">最大检测点数: %1$d</string>
+    <string name="start_display_test">开始屏幕测试</string>
+    <string name="display_test_hint">轻触屏幕轮换纯色（红、绿、蓝、白、黑、灰），排查是否有坏点、亮点或烧屏色差。</string>
+    <string name="play_test_sound">播放诊断音频</string>
+    <string name="did_you_hear_sound">您是否清晰听到了测试音频声音？</string>
+    <string name="record_test">开始录音测试 (3秒)</string>
+    <string name="recording_active">正在采样麦克风音频波形…</string>
+    <string name="mic_response_good">麦克风响应: 灵敏度正常</string>
+    <string name="mic_response_weak">麦克风响应: 振幅偏弱</string>
+    <string name="test_vibrate_prompt">正在触发线性马达震动…</string>
+    <string name="did_device_vibrate">您是否感受到了明显的设备震动？</string>
+    <string name="toggle_torch">开关闪光灯</string>
+
+    <!-- Sensors -->
+    <string name="sensors">传感器</string>
+    <string name="accelerometer">加速度传感器 (Accelerometer)</string>
+    <string name="gyroscope">陀螺仪 (Gyroscope)</string>
+    <string name="magnetometer">地磁指南针 (Magnetometer)</string>
+    <string name="light_sensor">环境光亮度感应 (Light)</string>
+    <string name="proximity_sensor">距离传感器 (Proximity)</string>
+    <string name="pressure_sensor">气压传感器 (Barometer)</string>
+    <string name="rotation_vector">空间姿态旋转矢量</string>
+    <string name="available">硬件可用</string>
+    <string name="unavailable">不支持或未授权</string>
+
+    <!-- Storage Analyzer -->
+    <string name="storage_analyzer">存储分析</string>
+    <string name="used_label">已使用</string>
+    <string name="free_label">空闲</string>
+    <string name="category_apps">应用与数据</string>
+    <string name="category_media">照片与视频</string>
+    <string name="category_audio">音频与音乐</string>
+    <string name="category_documents">文档资料</string>
+    <string name="category_system">系统及其他</string>
+
+    <!-- RAM & CPU -->
+    <string name="ram_cpu_monitor">内存与处理器监控</string>
+    <string name="ram_usage">内存占用率</string>
+    <string name="cpu_usage">CPU 负载</string>
+    <string name="cores">核心</string>
+
+    <!-- Connectivity -->
+    <string name="connectivity">网络与互联</string>
+    <string name="mobile_network">蜂窝移动网络</string>
+    <string name="connected">已连接</string>
+    <string name="disconnected">未连接</string>
+    <string name="link_speed">连接链路速率</string>
+    <string name="signal_strength">信号强度</string>
+
+    <!-- Security -->
+    <string name="security_center">安全中心</string>
+    <string name="screen_lock">屏幕锁定安全</string>
+    <string name="secured">受保护 (PIN码 / 生物识别 / 密码)</string>
+    <string name="not_secured">未设锁屏密码</string>
+    <string name="biometrics">生物识别硬件</string>
+    <string name="encryption">闪存硬件加密</string>
+    <string name="encrypted">已启用芯片级硬件加密</string>
+
+    <!-- Reports & History -->
+    <string name="phone_health_report">设备健康综合报告</string>
+    <string name="test_history">历史诊断归档</string>
+    <string name="compare_results">检测结果对比</string>
+    <string name="share_report">分享报告</string>
+    <string name="export_report">导出报告</string>
+    <string name="no_history_yet">尚未记录任何诊断扫描数据。</string>
+    <string name="run_first_scan">立即进行一次扫描，生成首份健康报告。</string>
+    <string name="previous">历史记录</string>
+    <string name="latest">最新诊断</string>
+    <string name="warnings_count">%1$d 个提示</string>
+
+    <!-- Settings & About -->
+    <string name="settings">设置</string>
+    <string name="appearance">个性化视觉</string>
+    <string name="theme_mode">色彩主题</string>
+    <string name="dark_mode">奢华暗夜深色</string>
+    <string name="light_mode">极简银白浅色</string>
+    <string name="system_mode">跟随系统设置</string>
+    <string name="accent_color">点缀高光色彩 (Accent)</string>
+    <string name="accent_cyan">电光天蓝 (Cyan)</string>
+    <string name="accent_emerald">翡翠冷绿 (Emerald)</string>
+    <string name="accent_gold">皇家曜金 (Gold)</string>
+    <string name="accent_violet">霓虹幻紫 (Violet)</string>
+    <string name="language">界面语言</string>
+    <string name="notifications_alerts">健康提醒通知</string>
+    <string name="auto_scan">定期自动巡检</string>
+    <string name="battery_alerts">高温预警</string>
+    <string name="storage_alerts">低空间警告</string>
+    <string name="privacy_center">隐私保护说明</string>
+    <string name="privacy_statement">所有的诊断检测全部在您的设备本地完成。应用绝不收集或上传任何个人隐私、账户密码、生物识别数据或实时位置。一切指标严格依赖 Android 原生公开 API 进行提取与呈现。</string>
+    <string name="about">关于软件</string>
+    <string name="developer">软件作者</string>
+    <string name="developer_name">Sina Naderi</string>
+    <string name="developer_email">sinananderi@gmail.com</string>
+    <string name="version">版本 1.0.0</string>
+    <string name="close">关闭</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+</resources>

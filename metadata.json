@@ -1,0 +1,6 @@
+{
+  "name": "PhoneCheck Pro",
+  "description": "Professional Luxury Phone Diagnostic & Hardware Test Suite",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

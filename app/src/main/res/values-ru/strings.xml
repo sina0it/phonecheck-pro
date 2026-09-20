@@ -1,0 +1,270 @@
+<resources>
+    <string name="app_name">PhoneCheck Pro</string>
+    <string name="app_subtitle">Профессиональная диагностика смартфона</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_device">Устройство</string>
+    <string name="nav_tests">Тесты</string>
+    <string name="nav_health">Состояние</string>
+    <string name="nav_settings">Настройки</string>
+
+    <!-- Dashboard -->
+    <string name="health_score">Оценка состояния</string>
+    <string name="device_healthy">Устройство в порядке</string>
+    <string name="issues_detected">Обнаружены замечания</string>
+    <string name="attention_required">Требует внимания</string>
+    <string name="scan_my_phone">ПРОВЕРИТЬ ТЕЛЕФОН</string>
+    <string name="scanning_device">Идет диагностика системы…</string>
+    <string name="quick_metrics">Ключевые показатели</string>
+    <string name="uptime">Время работы</string>
+    <string name="storage">Память</string>
+    <string name="memory_ram">ОЗУ</string>
+    <string name="battery">Батарея</string>
+    <string name="cpu">Процессор</string>
+    <string name="gpu">Графика</string>
+    <string name="display">Экран</string>
+    <string name="temperature">Температура</string>
+
+    <!-- Device Info -->
+    <string name="device_information">Информация об устройстве</string>
+    <string name="device_identity">Идентификация устройства</string>
+    <string name="manufacturing_region">Производство и регион</string>
+    <string name="hardware_specifications">Аппаратные спецификации</string>
+    <string name="system_os">Операционная система</string>
+    <string name="display_specs">Параметры дисплея</string>
+    <string name="camera_specs">Модули камер</string>
+    <string name="brand">Бренд</string>
+    <string name="manufacturer">Производитель</string>
+    <string name="exact_model">Модель</string>
+    <string name="model_number">Номер модели</string>
+    <string name="device_name">Имя устройства</string>
+    <string name="product_name">Продукт</string>
+    <string name="device_family">Семейство / Плата</string>
+    <string name="device_id">Идентификатор устройства</string>
+    <string name="android_version">Версия Android</string>
+    <string name="android_sdk">Уровень API</string>
+    <string name="build_number">Номер сборки</string>
+    <string name="kernel_version">Версия ядра</string>
+    <string name="security_patch">Патч безопасности</string>
+    <string name="bootloader">Загрузчик</string>
+    <string name="cpu_architecture">Архитектура</string>
+    <string name="cpu_cores">Количество ядер</string>
+    <string name="cpu_frequency">Частота CPU</string>
+    <string name="total_ram">Всего ОЗУ</string>
+    <string name="available_ram">Доступно ОЗУ</string>
+    <string name="used_ram">Занято ОЗУ</string>
+    <string name="total_storage">Всего накопитель</string>
+    <string name="available_storage">Свободно места</string>
+    <string name="used_storage">Занято места</string>
+    <string name="screen_resolution">Разрешение</string>
+    <string name="screen_density">Плотность (DPI)</string>
+    <string name="refresh_rate">Частота обновления</string>
+    <string name="screen_size">Диагональ экрана</string>
+    <string name="front_camera">Фронтальная камера</string>
+    <string name="rear_camera">Основная камера</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="nfc">Модуль NFC</string>
+    <string name="usb">Порт USB</string>
+    <string name="gps">GPS навигация</string>
+    <string name="fingerprint_sensor">Сканер отпечатков</string>
+    <string name="face_authentication">Распознавание лица</string>
+    <string name="not_available">Not available on this device</string>
+    <string name="unknown">Unknown</string>
+    <string name="brand_origin">Страна бренда</string>
+    <string name="assembly_country">Страна сборки</string>
+    <string name="release_year">Год выпуска</string>
+    <string name="manufacturing_region_name">Регион производства</string>
+    <string name="device_market">Рынок сбыта</string>
+    <string name="model_region_code">Код региона модели</string>
+
+    <!-- Battery -->
+    <string name="battery_health">Здоровье аккумулятора</string>
+    <string name="battery_level">Уровень заряда</string>
+    <string name="battery_temperature">Температура</string>
+    <string name="battery_voltage">Напряжение</string>
+    <string name="battery_current">Ток зарядки</string>
+    <string name="charging_status">Статус зарядки</string>
+    <string name="power_source">Источник питания</string>
+    <string name="battery_capacity">Емкость</string>
+    <string name="design_capacity">Паспортная емкость</string>
+    <string name="remaining_capacity">Остаточная емкость</string>
+    <string name="battery_technology">Технология</string>
+    <string name="cycle_count">Циклы зарядки</string>
+    <string name="battery_status">Состояние батареи</string>
+    <string name="battery_excellent">Отличное (Excellent)</string>
+    <string name="battery_good">Хорошее (Good)</string>
+    <string name="battery_degraded">Обнаружен износ батареи</string>
+    <string name="battery_info_note">Примечание: Уровень заряда отображает текущий процент энергии. Здоровье батареи отражает долговременное химическое состояние ячеек. Из соображений безопасности Android ограничивает доступ к точному числу циклов без системных прав.</string>
+
+    <!-- Uptime -->
+    <string name="device_uptime">Время работы без перезагрузки</string>
+    <string name="current_uptime">Текущее время работы</string>
+    <string name="last_boot_time">Время последней загрузки</string>
+    <string name="time_since_boot">Прошло с момента включения</string>
+    <string name="days">дн.</string>
+    <string name="hours">ч.</string>
+    <string name="minutes">мин.</string>
+    <string name="seconds">сек.</string>
+
+    <!-- Scanner -->
+    <string name="device_health_scanner">Сканер состояния устройства</string>
+    <string name="scan_progress">Проверка %1$s…</string>
+    <string name="step_device">01 Устройство</string>
+    <string name="step_battery">02 Аккумулятор</string>
+    <string name="step_storage">03 Накопитель</string>
+    <string name="step_memory">04 Память</string>
+    <string name="step_cpu">05 Процессор</string>
+    <string name="step_sensors">06 Датчики</string>
+    <string name="step_connectivity">07 Связь</string>
+    <string name="step_display">08 Дисплей</string>
+    <string name="step_camera">09 Камера</string>
+    <string name="step_security">10 Безопасность</string>
+    <string name="scan_results">Результаты проверки</string>
+    <string name="status_healthy">Норма</string>
+    <string name="status_warning">Внимание</string>
+    <string name="status_critical">Критично</string>
+
+    <!-- Issues -->
+    <string name="problem">Проблема</string>
+    <string name="why_it_matters">Почему это важно</string>
+    <string name="recommendation">Рекомендуемое действие</string>
+    <string name="issue_storage_almost_full">Память почти заполнена</string>
+    <string name="issue_storage_almost_full_why">Свободно менее 10% общего объема постоянной памяти.</string>
+    <string name="issue_storage_almost_full_rec">Очистите кэш или удалите неиспользуемые медиафайлы и приложения.</string>
+    <string name="issue_ram_low">Мало свободной оперативной памяти</string>
+    <string name="issue_ram_low_why">Дефицит ОЗУ может приводить к закрытию фоновых приложений и микрозадержкам.</string>
+    <string name="issue_ram_low_rec">Закройте тяжелые фоновые процессы или перезагрузите телефон.</string>
+    <string name="issue_battery_temp_high">Повышенная температура аккумулятора</string>
+    <string name="issue_battery_temp_high_why">Температура свыше 40°C ускоряет деградацию литий-ионных элементов.</string>
+    <string name="issue_battery_temp_high_rec">Отключите быструю зарядку и дайте устройству остыть при комнатной температуре.</string>
+    <string name="issue_security_patch_outdated">Устаревший патч безопасности</string>
+    <string name="issue_security_patch_outdated_why">Обновление безопасности старше 6 месяцев, возможны неустраненные уязвимости.</string>
+    <string name="issue_security_patch_outdated_rec">Проверьте Настройки > Обновление системы для загрузки свежей прошивки.</string>
+    <string name="issue_bluetooth_disabled">Модуль Bluetooth выключен</string>
+    <string name="issue_bluetooth_disabled_why">Беспроводной адаптер в настоящий момент отключен.</string>
+    <string name="issue_bluetooth_disabled_rec">Включите Bluetooth в панели быстрых настроек при необходимости.</string>
+
+    <!-- Hardware Tests -->
+    <string name="hardware_test">Тестирование оборудования</string>
+    <string name="hardware_test_desc">Интерактивная диагностика физических компонентов смартфона</string>
+    <string name="test_touch">Тест сенсорной сетки (Touch)</string>
+    <string name="test_multitouch">Тест мультитач</string>
+    <string name="test_display">Тест экрана на битые пиксели</string>
+    <string name="test_vibration">Тест вибромотора</string>
+    <string name="test_speaker">Тест основного динамика</string>
+    <string name="test_earpiece">Тест разговорного динамика</string>
+    <string name="test_microphone">Тест записи микрофона</string>
+    <string name="test_camera_front">Тест фронтальной камеры</string>
+    <string name="test_camera_rear">Тест основной камеры</string>
+    <string name="test_flash">Тест вспышки / фонарика</string>
+    <string name="test_sensors">Панель датчиков в реальном времени</string>
+    <string name="test_connectivity">Тест беспроводных интерфейсов</string>
+    <string name="pass">ПРОЙДЕН (PASS)</string>
+    <string name="fail">ОШИБКА (FAIL)</string>
+    <string name="skip">ПРОПУСТИТЬ (SKIP)</string>
+    <string name="passed">Пройден</string>
+    <string name="failed">Не пройден</string>
+    <string name="touch_coverage">Покрытие сенсора</string>
+    <string name="touch_hint">Проведите пальцем по всем ячейкам на экране</string>
+    <string name="multitouch_hint">Поместите несколько пальцев на дисплей одновременно</string>
+    <string name="detected_points">Обнаружено точек: %1$d</string>
+    <string name="max_detected">Максимум касаний: %1$d</string>
+    <string name="start_display_test">НАЧАТЬ ТЕСТ ЭКРАНА</string>
+    <string name="display_test_hint">Касайтесь экрана для переключения цветов (красный, зеленый, синий, белый, черный, серый) для поиска битых пикселей или выгорания.</string>
+    <string name="play_test_sound">ВОСПРОИЗВЕСТИ СИГНАЛ</string>
+    <string name="did_you_hear_sound">Вы отчетливо услышали диагностический аудиосигнал?</string>
+    <string name="record_test">ЗАПИСЬ (3 сек)</string>
+    <string name="recording_active">Идет анализ аудиосигнала…</string>
+    <string name="mic_response_good">Отклик микрофона: Отличный и чистый</string>
+    <string name="mic_response_weak">Отклик микрофона: Слишком тихий</string>
+    <string name="test_vibrate_prompt">Тестирование тактильной отдачи…</string>
+    <string name="did_device_vibrate">Сработал ли виброотклик телефона?</string>
+    <string name="toggle_torch">ПЕРЕКЛЮЧИТЬ ВСПЫШКУ</string>
+
+    <!-- Sensors -->
+    <string name="sensors">Датчики</string>
+    <string name="accelerometer">Акселерометр (Accelerometer)</string>
+    <string name="gyroscope">Гироскоп (Gyroscope)</string>
+    <string name="magnetometer">Магнитометр (Компас)</string>
+    <string name="light_sensor">Датчик освещенности</string>
+    <string name="proximity_sensor">Датчик приближения</string>
+    <string name="pressure_sensor">Барометр (Давление)</string>
+    <string name="rotation_vector">Вектор вращения 3D</string>
+    <string name="available">Доступен и активен</string>
+    <string name="unavailable">Недоступен</string>
+
+    <!-- Storage Analyzer -->
+    <string name="storage_analyzer">Анализатор хранилища</string>
+    <string name="used_label">Занято</string>
+    <string name="free_label">Свободно</string>
+    <string name="category_apps">Приложения и данные</string>
+    <string name="category_media">Фото и видео</string>
+    <string name="category_audio">Музыка и звуки</string>
+    <string name="category_documents">Документы</string>
+    <string name="category_system">Система и прочее</string>
+
+    <!-- RAM & CPU -->
+    <string name="ram_cpu_monitor">Мониторинг ОЗУ и ЦП</string>
+    <string name="ram_usage">Использование памяти</string>
+    <string name="cpu_usage">Загрузка процессора</string>
+    <string name="cores">Ядер</string>
+
+    <!-- Connectivity -->
+    <string name="connectivity">Беспроводные соединения</string>
+    <string name="mobile_network">Мобильная сеть</string>
+    <string name="connected">Подключено</string>
+    <string name="disconnected">Отключено</string>
+    <string name="link_speed">Скорость соединения</string>
+    <string name="signal_strength">Уровень сигнала</string>
+
+    <!-- Security -->
+    <string name="security_center">Центр безопасности</string>
+    <string name="screen_lock">Блокировка экрана</string>
+    <string name="secured">Защищено (PIN / Биометрия / Пароль)</string>
+    <string name="not_secured">Без защиты</string>
+    <string name="biometrics">Биометрические сканеры</string>
+    <string name="encryption">Шифрование данных</string>
+    <string name="encrypted">Аппаратное шифрование активно</string>
+
+    <!-- Reports & History -->
+    <string name="phone_health_report">ОТЧЕТ О СОСТОЯНИИ СМАРТФОНА</string>
+    <string name="test_history">История проверок</string>
+    <string name="compare_results">Сравнить проверки</string>
+    <string name="share_report">Поделиться отчетом</string>
+    <string name="export_report">Экспорт отчета</string>
+    <string name="no_history_yet">Диагностические записи пока отсутствуют.</string>
+    <string name="run_first_scan">Запустите сканирование, чтобы сохранить первую запись.</string>
+    <string name="previous">Предыдущая</string>
+    <string name="latest">Последняя</string>
+    <string name="warnings_count">%1$d Замечаний</string>
+
+    <!-- Settings & About -->
+    <string name="settings">Настройки</string>
+    <string name="appearance">Внешний вид</string>
+    <string name="theme_mode">Тема оформления</string>
+    <string name="dark_mode">Темная роскошь</string>
+    <string name="light_mode">Светлый минимализм</string>
+    <string name="system_mode">Как в системе</string>
+    <string name="accent_color">Акцентный цвет</string>
+    <string name="accent_cyan">Бирюзовый сапфир (Cyan)</string>
+    <string name="accent_emerald">Изумрудно-зеленый (Emerald)</string>
+    <string name="accent_gold">Имперское золото (Gold)</string>
+    <string name="accent_violet">Электрический фиолетовый (Violet)</string>
+    <string name="language">Язык интерфейса</string>
+    <string name="notifications_alerts">Уведомления о здоровье</string>
+    <string name="auto_scan">Автоматическая проверка</string>
+    <string name="battery_alerts">Предупреждение о перегреве</string>
+    <string name="storage_alerts">Предупреждение о нехватке памяти</string>
+    <string name="privacy_center">Конфиденциальность</string>
+    <string name="privacy_statement">Все диагностические проверки выполняются исключительно локально на вашем устройстве. Приложение не отправляет и не сохраняет персональные данные, пароли или биометрические сведения. Доступ осуществляется строго через открытые API платформы Android.</string>
+    <string name="about">О программе</string>
+    <string name="developer">Разработчик</string>
+    <string name="developer_name">Sina Naderi</string>
+    <string name="developer_email">sinananderi@gmail.com</string>
+    <string name="version">Версия 1.0.0</string>
+    <string name="close">Закрыть</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">OK</string>
+</resources>
