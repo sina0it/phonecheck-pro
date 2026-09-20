@@ -42,7 +42,8 @@ PhoneCheck Pro is built with a **minimal, premium and futuristic interface**, co
 
 # 📱 PhoneCheck Pro
 
-![Uploading sina.png…]()
+<img width="1536" height="1024" alt="sina" src="https://github.com/user-attachments/assets/5af3f36f-4b26-4bd4-9adf-418e8eea5845" />
+
 
 
 **گوشی خودت را بشناس؛ تستش کن و سلامت آن را بررسی کن.**
